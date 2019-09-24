@@ -2,9 +2,10 @@
 
 .b-header {
   width: 100%;
-  background-color: $tertiary;
-  height: 48px;
+  background-color: #FFFFFF;
+  height: 108px;
   margin-bottom: 0;
+  margin-top:10px;
 
   .contents {
     margin: 8px 0;
@@ -27,7 +28,7 @@
   }
 
   #brand-logo {
-    max-height: 32px;
+    max-height: 56px;
   }
 
   #brand-text-logo {
@@ -112,7 +113,7 @@
 }
 
 .ember-application .d-header {
-    margin-top: 48px;
+    margin-top: 109px;
 }
 
 .docked .ember-application .d-header {
