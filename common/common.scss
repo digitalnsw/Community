@@ -120,6 +120,10 @@
     display: none !important;
 }
 
+.d-header {
+border-bottom: 5px solid #002664;
+  box-shadow: none !important;
+}
 .docked .ember-application .d-header {
     margin-top: 0;
 }
