@@ -116,6 +116,10 @@
     margin-top: 109px;
 }
 
+.ember-application .d-header .title {
+    display: none !important;
+}
+
 .docked .ember-application .d-header {
     margin-top: 0;
 }
